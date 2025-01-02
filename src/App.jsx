@@ -15,7 +15,7 @@ const App = () => {
       <Navbar />
       
       {/* Main content */}
-      <div className='container mx-auto p-10'>
+      <div className='container mx-auto '>
         <Routes>
           <Route path="/career-guidance" element={<Career />} />
           <Route path='/about' element={<AboutUs/>}/>
