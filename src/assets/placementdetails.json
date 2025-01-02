@@ -1,0 +1,261 @@
+[
+    {
+      "studentName": "John Doe",
+      "course": "Computer Science",
+      "placementStatus": "Placed",
+      "company": "Google"
+    },
+    {
+      "studentName": "Jane Smith",
+      "course": "Mechanical Engineering",
+      "placementStatus": "Not Placed",
+      "company": ""
+    },
+    {
+      "studentName": "Sam Wilson",
+      "course": "Medical (MBBS)",
+      "placementStatus": "In-Process",
+      "company": ""
+    },
+    {
+      "studentName": "Emily Johnson",
+      "course": "Electrical Engineering",
+      "placementStatus": "Placed",
+      "company": "Tesla"
+    },
+    {
+      "studentName": "Michael Brown",
+      "course": "Business Administration",
+      "placementStatus": "Not Placed",
+      "company": ""
+    },
+    {
+      "studentName": "Olivia Davis",
+      "course": "Finance",
+      "placementStatus": "Placed",
+      "company": "Goldman Sachs"
+    },
+    {
+      "studentName": "James Taylor",
+      "course": "Architecture",
+      "placementStatus": "In-Process",
+      "company": ""
+    },
+    {
+      "studentName": "Sophia Lee",
+      "course": "Civil Engineering",
+      "placementStatus": "Placed",
+      "company": "Larsen & Toubro"
+    },
+    {
+      "studentName": "Daniel Harris",
+      "course": "Artificial Intelligence",
+      "placementStatus": "Not Placed",
+      "company": ""
+    },
+    {
+      "studentName": "Isabella Martinez",
+      "course": "Mechanical Engineering",
+      "placementStatus": "In-Process",
+      "company": ""
+    },
+    {
+      "studentName": "David Robinson",
+      "course": "Medical (MBBS)",
+      "placementStatus": "Placed",
+      "company": "Apollo Hospitals"
+    },
+    {
+      "studentName": "Charlotte Walker",
+      "course": "Data Science",
+      "placementStatus": "Placed",
+      "company": "Amazon"
+    },
+    {
+      "studentName": "Benjamin Allen",
+      "course": "Design",
+      "placementStatus": "Not Placed",
+      "company": ""
+    },
+    {
+      "studentName": "Ava Young",
+      "course": "Cybersecurity",
+      "placementStatus": "In-Process",
+      "company": ""
+    },
+    {
+      "studentName": "Liam King",
+      "course": "Marketing",
+      "placementStatus": "Placed",
+      "company": "HubSpot"
+    },
+    {
+      "studentName": "Mason Scott",
+      "course": "Sales",
+      "placementStatus": "Placed",
+      "company": "Salesforce"
+    },
+    {
+      "studentName": "Amelia Adams",
+      "course": "Human Resources",
+      "placementStatus": "Not Placed",
+      "company": ""
+    },
+    {
+      "studentName": "Ethan Carter",
+      "course": "Software Engineering",
+      "placementStatus": "Placed",
+      "company": "Facebook"
+    },
+    {
+      "studentName": "Zoe Harris",
+      "course": "Law",
+      "placementStatus": "In-Process",
+      "company": ""
+    },
+    {
+      "studentName": "William Clark",
+      "course": "Data Science",
+      "placementStatus": "Not Placed",
+      "company": ""
+    },
+    {
+      "studentName": "Maya Lewis",
+      "course": "Economics",
+      "placementStatus": "Placed",
+      "company": "JPMorgan Chase"
+    },
+    {
+      "studentName": "Lucas Allen",
+      "course": "Biomedical Engineering",
+      "placementStatus": "Placed",
+      "company": "Medtronic"
+    },
+    {
+      "studentName": "Nora Turner",
+      "course": "Electrical Engineering",
+      "placementStatus": "Not Placed",
+      "company": ""
+    },
+    {
+      "studentName": "Alexander Carter",
+      "course": "Mechanical Engineering",
+      "placementStatus": "In-Process",
+      "company": ""
+    },
+    {
+      "studentName": "Isla Wilson",
+      "course": "Marketing",
+      "placementStatus": "Placed",
+      "company": "Nike"
+    },
+    {
+      "studentName": "Henry Walker",
+      "course": "Finance",
+      "placementStatus": "Placed",
+      "company": "Barclays"
+    },
+    {
+      "studentName": "Jack Martinez",
+      "course": "Physics",
+      "placementStatus": "In-Process",
+      "company": ""
+    },
+    {
+      "studentName": "Chloe Anderson",
+      "course": "Civil Engineering",
+      "placementStatus": "Placed",
+      "company": "Bechtel"
+    },
+    {
+      "studentName": "Jacob Robinson",
+      "course": "Chemistry",
+      "placementStatus": "Placed",
+      "company": "BASF"
+    },
+    {
+      "studentName": "Ella White",
+      "course": "Human Resources",
+      "placementStatus": "Not Placed",
+      "company": ""
+    },
+    {
+      "studentName": "Noah Green",
+      "course": "Artificial Intelligence",
+      "placementStatus": "Not Placed",
+      "company": ""
+    },
+    {
+      "studentName": "Madeline Hall",
+      "course": "Marketing",
+      "placementStatus": "In-Process",
+      "company": ""
+    },
+    {
+      "studentName": "Amos Lee",
+      "course": "Architecture",
+      "placementStatus": "Placed",
+      "company": "Gensler"
+    },
+    {
+      "studentName": "Lily Scott",
+      "course": "Sales",
+      "placementStatus": "In-Process",
+      "company": ""
+    },
+    {
+      "studentName": "Oscar Mitchell",
+      "course": "Cybersecurity",
+      "placementStatus": "Not Placed",
+      "company": ""
+    },
+    {
+      "studentName": "Aidan Taylor",
+      "course": "Computer Science",
+      "placementStatus": "Placed",
+      "company": "Microsoft"
+    },
+    {
+      "studentName": "Sophie Harris",
+      "course": "Finance",
+      "placementStatus": "Placed",
+      "company": "Citigroup"
+    },
+    {
+      "studentName": "Ryan Clark",
+      "course": "Biomedical Engineering",
+      "placementStatus": "In-Process",
+      "company": ""
+    },
+    {
+      "studentName": "Isaac Lee",
+      "course": "Electrical Engineering",
+      "placementStatus": "Placed",
+      "company": "Siemens"
+    },
+    {
+      "studentName": "Victoria Turner",
+      "course": "Law",
+      "placementStatus": "Not Placed",
+      "company": ""
+    },
+    {
+      "studentName": "Santiago Roberts",
+      "course": "Artificial Intelligence",
+      "placementStatus": "In-Process",
+      "company": ""
+    },
+    {
+      "studentName": "Lila King",
+      "course": "Software Engineering",
+      "placementStatus": "Placed",
+      "company": "Apple"
+    },
+    {
+      "studentName": "Gabriel Phillips",
+      "course": "Design",
+      "placementStatus": "Placed",
+      "company": "Adobe"
+    }
+  ]
+  

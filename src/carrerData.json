@@ -1,0 +1,37 @@
+[
+    {
+      "category": "Engineering",
+      "subCategories": [
+        {
+          "name": "Computer Science",
+          "description": "Focuses on software development, algorithms, data structures, and artificial intelligence.",
+          "skills": ["Programming", "Data Structures", "Algorithms", "AI", "Machine Learning"],
+          "educationalRequirements": ["B.Tech in Computer Science", "M.Tech in Computer Science"]
+        },
+        {
+          "name": "Mechanical Engineering",
+          "description": "Involves designing, analyzing, and manufacturing mechanical systems.",
+          "skills": ["CAD", "Thermodynamics", "Fluid Mechanics", "Materials Science"],
+          "educationalRequirements": ["B.Tech in Mechanical Engineering", "M.Tech in Mechanical Engineering"]
+        }
+      ]
+    },
+    {
+      "category": "Medical",
+      "subCategories": [
+        {
+          "name": "MBBS",
+          "description": "Bachelor of Medicine, Bachelor of Surgery. The primary medical degree for doctors.",
+          "skills": ["Clinical Skills", "Anatomy", "Pharmacology"],
+          "educationalRequirements": ["MBBS", "Post-Graduation in Specialization"]
+        },
+        {
+          "name": "Dentistry",
+          "description": "Focused on diagnosing and treating oral diseases.",
+          "skills": ["Dental Procedures", "Oral Anatomy", "Radiography"],
+          "educationalRequirements": ["BDS", "MDS"]
+        }
+      ]
+    }
+  ]
+  

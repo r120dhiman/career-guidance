@@ -1,0 +1,268 @@
+[
+  {
+    "category": "Engineering & Technology",
+    "sub_categories": [
+      {
+        "name": "Civil Engineering",
+        "qualification_required": "B.Tech/B.E. in Civil Engineering",
+        "experience_required": "0-3 years for entry-level positions; 5+ years for senior roles",
+        "competitive_exams_needed": "JEE Mains, JEE Advanced, GATE",
+        "tips": "Focus on understanding structural concepts and practical applications. Internships in construction companies will give you hands-on experience."
+      },
+      {
+        "name": "Mechanical Engineering",
+        "qualification_required": "B.Tech/B.E. in Mechanical Engineering",
+        "experience_required": "0-3 years for entry-level positions; 5+ years for senior roles",
+        "competitive_exams_needed": "JEE Mains, JEE Advanced, GATE",
+        "tips": "Get familiar with CAD software, thermodynamics, and fluid mechanics. Internships in manufacturing or automobile companies will help."
+      }
+    ]
+  },
+  {
+    "category": "Medical & Healthcare",
+    "sub_categories": [
+      {
+        "name": "Doctor (MBBS)",
+        "qualification_required": "MBBS (Bachelor of Medicine and Bachelor of Surgery)",
+        "experience_required": "0-1 years for internships; 5+ years for specialization",
+        "competitive_exams_needed": "NEET UG, NEET PG",
+        "tips": "Focus on theoretical knowledge, clinical skills, and patient care. Specializing in areas like surgery, pediatrics, or internal medicine opens more career doors."
+      },
+      {
+        "name": "Dentist (BDS)",
+        "qualification_required": "BDS (Bachelor of Dental Surgery)",
+        "experience_required": "0-3 years for entry-level roles; 5+ years for specialized practice",
+        "competitive_exams_needed": "NEET UG, NEET MDS",
+        "tips": "Study oral anatomy, preventive care, and cosmetic dentistry. Internships and clinical practice will sharpen your skills."
+      }
+    ]
+  },
+  {
+    "category": "Arts & Humanities",
+    "sub_categories": [
+      {
+        "name": "Fine Arts (Painting, Sculpture, etc.)",
+        "qualification_required": "BFA (Bachelor of Fine Arts), MFA (Master of Fine Arts)",
+        "experience_required": "0-2 years for entry-level positions; 5+ years for senior roles",
+        "competitive_exams_needed": "NATA (National Aptitude Test in Architecture)",
+        "tips": "Build a portfolio of your work. Participate in exhibitions, workshops, and competitions to enhance your exposure and experience."
+      },
+      {
+        "name": "Literature/Creative Writing",
+        "qualification_required": "BA in English, MA in Literature/Creative Writing",
+        "experience_required": "0-3 years for entry-level positions; 5+ years for established writers",
+        "competitive_exams_needed": "Entrance exams for writing programs or publishing roles",
+        "tips": "Read extensively and write regularly. Building an online presence and publishing articles, blogs, or short stories will help you get noticed."
+      }
+    ]
+  },
+  {
+    "category": "Commerce & Business",
+    "sub_categories": [
+      {
+        "name": "Chartered Accountant (CA)",
+        "qualification_required": "CA course, including CPT, IPCC, and Final Exam",
+        "experience_required": "2-3 years of Articleship under a CA firm",
+        "competitive_exams_needed": "CA Foundation, CA Intermediate, CA Final",
+        "tips": "Be prepared for long hours of study and practical training. A good understanding of accounting principles and tax laws is key."
+      },
+      {
+        "name": "Investment Banker",
+        "qualification_required": "B.Com, MBA in Finance or related field",
+        "experience_required": "1-3 years for associate roles; 5+ years for senior investment bankers",
+        "competitive_exams_needed": "CAT, GMAT",
+        "tips": "Develop strong financial analysis skills, keep up with market trends, and gain experience through internships at financial firms."
+      }
+    ]
+  },
+  {
+    "category": "Law",
+    "sub_categories": [
+      {
+        "name": "Lawyer (LLB)",
+        "qualification_required": "LLB (Bachelor of Laws)",
+        "experience_required": "0-3 years for entry-level positions; 5+ years for senior roles",
+        "competitive_exams_needed": "CLAT (Common Law Admission Test), LSAT",
+        "tips": "Develop strong research and communication skills. Internships and moot court participation will help improve practical skills."
+      },
+      {
+        "name": "Corporate Law",
+        "qualification_required": "LLB, LLM in Corporate Law",
+        "experience_required": "2-5 years for mid-level roles; 5+ years for senior corporate lawyers",
+        "competitive_exams_needed": "CLAT, State Judicial Service Exams",
+        "tips": "Learn contract law and business regulations. Interning at a corporate law firm can provide exposure to mergers and acquisitions."
+      }
+    ]
+  },
+  {
+    "category": "Social Sciences",
+    "sub_categories": [
+      {
+        "name": "Social Work",
+        "qualification_required": "BA in Social Work, MSW (Master of Social Work)",
+        "experience_required": "0-2 years for entry-level positions; 5+ years for senior roles",
+        "competitive_exams_needed": "State-level social work exams",
+        "tips": "Focus on communication and counseling skills. Volunteering in NGOs can give you practical exposure."
+      },
+      {
+        "name": "Counseling",
+        "qualification_required": "BA/BSc in Psychology, MA/MSc in Counseling or Clinical Psychology",
+        "experience_required": "0-2 years for entry-level roles; 5+ years for specialized therapists",
+        "competitive_exams_needed": "Entrance exams for counseling programs",
+        "tips": "Develop strong interpersonal skills and empathy. Gaining clinical experience through internships will refine your practice."
+      }
+    ]
+  },
+  {
+    "category": "Science & Research",
+    "sub_categories": [
+      {
+        "name": "Physics",
+        "qualification_required": "B.Sc., M.Sc. in Physics",
+        "experience_required": "0-2 years for entry-level research positions; 5+ years for advanced roles",
+        "competitive_exams_needed": "GATE, CSIR-NET",
+        "tips": "Focus on building strong theoretical knowledge and mathematical skills. Joining research projects can accelerate your learning."
+      },
+      {
+        "name": "Biology",
+        "qualification_required": "B.Sc., M.Sc. in Biology, Ph.D. (optional for research roles)",
+        "experience_required": "0-3 years for entry-level roles; 5+ years for senior research positions",
+        "competitive_exams_needed": "CSIR-NET, GATE",
+        "tips": "Stay updated on developments in genetics, biotechnology, and environmental biology. Interning at research labs will provide useful experience."
+      }
+    ]
+  },
+  {
+    "category": "Media & Design",
+    "sub_categories": [
+      {
+        "name": "Film & Television",
+        "qualification_required": "BA in Film Studies, MA in Film Direction",
+        "experience_required": "0-3 years for entry-level roles; 5+ years for senior roles",
+        "competitive_exams_needed": "Film school entrance exams",
+        "tips": "Work on short films and documentaries to build your portfolio. Participating in film festivals helps in networking."
+      },
+      {
+        "name": "Graphic Design",
+        "qualification_required": "B.Des in Graphic Design",
+        "experience_required": "0-2 years for entry-level roles; 5+ years for senior design roles",
+        "competitive_exams_needed": "NID (National Institute of Design), CEPT",
+        "tips": "Master design software like Adobe Creative Suite. Building a strong portfolio of your work is key to landing a good job."
+      }
+    ]
+  },
+  {
+    "category": "Education",
+    "sub_categories": [
+      {
+        "name": "Teacher (Various Subjects)",
+        "qualification_required": "B.Ed (Bachelor of Education), specific subject degree (e.g., M.Sc. for Science subjects)",
+        "experience_required": "0-2 years for entry-level roles; 5+ years for senior positions",
+        "competitive_exams_needed": "CTET, State Teacher Eligibility Test (TET)",
+        "tips": "Stay updated on teaching methodologies. Gaining experience in tutoring and volunteering in schools will build your teaching skills."
+      },
+      {
+        "name": "Educational Consultant",
+        "qualification_required": "M.Ed (Master of Education), Educational Psychology",
+        "experience_required": "2-5 years for consulting roles",
+        "competitive_exams_needed": "No specific exams, but certification in educational consultancy may help",
+        "tips": "Develop expertise in curriculum design and educational technology. Consulting for schools and universities will enhance your experience."
+      }
+    ]
+  },
+  {
+    "category": "Skilled & Vocational Trades",
+    "sub_categories": [
+      {
+        "name": "Electrician",
+        "qualification_required": "Diploma/ITI in Electrical Engineering",
+        "experience_required": "1-3 years for entry-level roles; 5+ years for senior roles",
+        "competitive_exams_needed": "No exams required but licensing may be needed",
+        "tips": "Practical training is key. Completing an apprenticeship will give you hands-on experience."
+      },
+      {
+        "name": "Plumber",
+        "qualification_required": "ITI/Diploma in Plumbing",
+        "experience_required": "1-2 years for entry-level positions; 5+ years for senior roles",
+        "competitive_exams_needed": "Licensing exams (varies by region)",
+        "tips": "Develop your practical skills and stay updated on industry standards. An apprenticeship is highly beneficial."
+      }
+    ]
+  },
+  {
+    "category": "Military & Defense",
+    "sub_categories": [
+      {
+        "name": "Army Officer",
+        "qualification_required": "Graduation, NDA (National Defence Academy) entrance exam",
+        "experience_required": "0-3 years for entry-level roles",
+        "competitive_exams_needed": "NDA, CDS (Combined Defence Services)",
+        "tips": "Prepare physically and mentally. Strong leadership and problem-solving skills are vital for this role."
+      },
+      {
+        "name": "Air Force Pilot",
+        "qualification_required": "Graduation, AFCAT (Air Force Common Admission Test)",
+        "experience_required": "0-3 years for entry-level roles",
+        "competitive_exams_needed": "AFCAT, NDA",
+        "tips": "Prepare for rigorous training and physical fitness. Understand aviation technology and military tactics."
+      }
+    ]
+  },
+  {
+    "category": "Sports & Fitness",
+    "sub_categories": [
+      {
+        "name": "Athlete",
+        "qualification_required": "No specific qualification, but physical fitness and training are essential",
+        "experience_required": "Varies, from 1 year for entry-level to professional status over time",
+        "competitive_exams_needed": "Olympic Trials, National Competitions",
+        "tips": "Consistent training, discipline, and nutrition are key. Pursuing a career in sports requires full commitment."
+      },
+      {
+        "name": "Fitness Trainer",
+        "qualification_required": "Certification in Fitness Training (e.g., ACE, ISSA)",
+        "experience_required": "1-2 years for entry-level roles; 5+ years for senior positions",
+        "competitive_exams_needed": "No exams, but certifications are essential",
+        "tips": "Develop expertise in exercise physiology and diet planning. Internships in fitness centers or gyms will provide hands-on experience."
+      }
+    ]
+  },
+  {
+    "category": "Environmental & Sustainability Careers",
+    "sub_categories": [
+      {
+        "name": "Environmental Scientist",
+        "qualification_required": "B.Sc. Environmental Science, M.Sc. in Environmental Studies",
+        "experience_required": "0-3 years for entry-level roles; 5+ years for senior roles",
+        "competitive_exams_needed": "CSIR-NET, GATE",
+        "tips": "Stay updated on environmental policies and sustainable practices. Gaining practical experience in environmental labs or NGOs will help."
+      },
+      {
+        "name": "Sustainability Consultant",
+        "qualification_required": "MBA in Sustainability, B.Tech in Environmental Engineering",
+        "experience_required": "2-5 years for consulting roles",
+        "competitive_exams_needed": "No specific exams, but certifications in sustainability practices are helpful",
+        "tips": "Develop expertise in green technologies and eco-friendly solutions. Work with companies to design sustainable strategies."
+      }
+    ]
+  },
+  {
+    "category": "Other Specialized Fields",
+    "sub_categories": [
+      {
+        "name": "Astronomy",
+        "qualification_required": "B.Sc., M.Sc. in Astronomy, Ph.D. (optional for research roles)",
+        "experience_required": "0-2 years for entry-level research positions",
+        "competitive_exams_needed": "GATE, CSIR-NET",
+        "tips": "Join observatories and research institutions to build practical experience. Collaborate with other researchers in your field."
+      },
+      {
+        "name": "Space Research",
+        "qualification_required": "B.Tech in Aerospace Engineering, M.Tech, Ph.D. (optional for advanced research)",
+        "experience_required": "0-2 years for entry-level roles; 5+ years for senior researchers",
+        "competitive_exams_needed": "GATE, ISRO recruitment exams",
+        "tips": "Focus on mastering aerodynamics and space systems. Internships at agencies like NASA or ISRO provide practical learning."
+      }
+    ]
+  }
+]
